@@ -11,3 +11,4 @@ Some other features include:
 ⦁	Full Time Zone support
 And more!
 So stop wasting time, and download the Roblox Event Scheduler today, and never miss out again! Oh and did I mention? IT'S FREEE!!!!!!!!!!!
+(This app is NOT open source *yet*)
